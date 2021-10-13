@@ -3,4 +3,8 @@ Challenge Webpage
 
 
 ## Horiseon 
-![image](C:\Users\cifue\documents\projects\HoriseonChallenge\assets\images\HORISEON.PNG)
+![image](https://github.com/bryance97/HoriseonChallenge/blob/main/assets/images/HORISEON.PNG?raw=true)
+
+
+## Website
+https://bryance97.github.io/HoriseonChallenge/
